@@ -1,0 +1,29 @@
+{
+  "name": "express_study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehdqkd616/Express_Study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ehdqkd616/Express_Study/issues"
+  },
+  "homepage": "https://github.com/ehdqkd616/Express_Study#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "helmet": "^4.4.1",
+    "sanitize-html": "^1.18.2"
+  }
+}
